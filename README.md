@@ -1,4 +1,4 @@
-[See demo](https://kanistra50.github.io/Store_Orders/)
+[See demo](https://kanistra50.github.io/Neolent/)
 
 # Store_Orders
 Task for Neolent (SPA, AngularJS, ui-router, Bootstrap)
