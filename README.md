@@ -1,4 +1,4 @@
-[See demo](https://kanistra50.github.io/Neolent/)
+[See demo](https://kanistra50.github.io/Orders-manager/)
 
 # Orders Manager
 Task for Neolent (SPA, AngularJS, ui-router, Bootstrap)
