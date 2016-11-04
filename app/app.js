@@ -10,8 +10,7 @@ angular.module("app", ['ui.router'])
                   url: '/user',
                   templateUrl: 'templates/user.html',
                   controller: 'ListCtrl'    
-              }) 
-         ;     
+              })
     })
 
 .controller('ListCtrl', function($scope){ 
