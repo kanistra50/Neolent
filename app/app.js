@@ -27,10 +27,10 @@ angular.module("app", ['ui.router'])
             $scope.newDescript = "";
         }
        
-})
+});
 
-.controller('SecondCtrl', function ($scope) { 
-        $scope.nameRecord = function () {
+controller('SecondCtrl', function($scope){ 
+        $scope.nameRecord = function() {
 
         };
 
