@@ -32,7 +32,7 @@ angular.module("app", ['ui.router'])
 controller('SecondCtrl', function($scope){ 
         $scope.nameRecord = function() {
 
-        }
+        };
 
 });
 
