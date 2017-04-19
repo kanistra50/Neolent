@@ -3,13 +3,11 @@ angular.module("app", ['ui.router'])
           $stateProvider
               .state('list', {
                   url: '/list',
-                  templateUrl: 'templates/list.html',
-                  controller: 'ListCtrl'    
+                  templateUrl: 'templates/list.html'
               }) 
               .state('user', {
                   url: '/user',
-                  templateUrl: 'templates/user.html',
-                  controller: 'ListCtrl'    
+                  templateUrl: 'templates/user.html'
               });
     })
 
