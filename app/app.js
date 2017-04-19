@@ -1,5 +1,7 @@
 angular.module("app", ['ui.router'])
-    .config(function ($stateProvider, $urlRouterProvider) {
+ 
+    .config(['$urlRouterProvider', '$stateProvider', function ($urlRouterProvider, $stateProvider) {
+ 
           $stateProvider
               .state('list', {
                   url: '/list',
