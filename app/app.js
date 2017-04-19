@@ -1,7 +1,7 @@
 angular.module("app", ['ui.router'])
  
     .config(['$urlRouterProvider', '$stateProvider', function ($urlRouterProvider, $stateProvider) {
- 
+          $urlRouterProvider.otherwise('/list');
           $stateProvider
               .state('list', {
                   url: '/list',
